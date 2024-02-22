@@ -33,7 +33,8 @@ At STIWA Advanced Products GmbH, I contributed significantly to precision engine
 - **Oracle SQL and PostgreSQL**: I also have experience with Oracle SQL and PostgreSQL. Stored procedures, triggers, and complex queries are all in my repertoire.
 
 ## Knowledgable in:
-https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg
+
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
