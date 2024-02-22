@@ -58,3 +58,9 @@ At STIWA Advanced Products GmbH, I contributed significantly to precision engine
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg">
 
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
+
