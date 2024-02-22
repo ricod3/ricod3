@@ -32,7 +32,7 @@ At STIWA Advanced Products GmbH, I contributed significantly to precision engine
 - **MySQL**: I’ve designed and optimized databases using MySQL. Normalization, indexing, and query optimization are my strengths.
 - **Oracle SQL and PostgreSQL**: I also have experience with Oracle SQL and PostgreSQL. Stored procedures, triggers, and complex queries are all in my repertoire.
 
-# Knowledgable in:
+## Knowledgable in:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
