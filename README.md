@@ -28,6 +28,6 @@ At STIWA Advanced Products GmbH, I contributed significantly to precision engine
 - **JavaScript**: I have extensive experience using JavaScript to create interactive and engaging user interfaces. I frequently work with frameworks like React, Vue.js, and Angular.
 - **CSS**: I’m well-versed in creating appealing designs with CSS. Flexbox, Grid, and CSS preprocessors like Sass are part of my toolkit.
 - **HTML**: I place great importance on writing clean and semantically correct HTML code. Accessibility and SEO matter to me.
-- **Java**: I’ve used Java for backend development. Spring Framework, Hibernate, and Maven are familiar tools.
+- **Java**: I’ve used Java for backend development. I've learned about the basic sorting-algorithms, linked-lists, unit testing and JDBC. Most of my Java projects leverage the powerful build capabilities of Apache Maven. This tool significantly streamlines my development process.
 - **MySQL**: I’ve designed and optimized databases using MySQL. Normalization, indexing, and query optimization are my strengths.
 - **Oracle SQL and PostgreSQL**: I also have experience with Oracle SQL and PostgreSQL. Stored procedures, triggers, and complex queries are all in my repertoire.
