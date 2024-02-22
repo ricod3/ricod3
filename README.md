@@ -33,7 +33,7 @@ At STIWA Advanced Products GmbH, I contributed significantly to precision engine
 - **Oracle SQL and PostgreSQL**: I also have experience with Oracle SQL and PostgreSQL. Stored procedures, triggers, and complex queries are all in my repertoire.
 
 ## Knowledgable in:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -55,4 +55,5 @@ At STIWA Advanced Products GmbH, I contributed significantly to precision engine
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![PowerAutomate](https://img.shields.io/badge/PowerAutomate-blue?style=flat&logoColor=Blue)
 
