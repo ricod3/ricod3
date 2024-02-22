@@ -1,5 +1,3 @@
-Sure, here is a formatted version of your GitHub bio in English:
-
 # About Me
 Hello! I’m a passionate IT enthusiast with experience in various areas. Let's dive into the specifics of my skills by covering my last two career steps:
 
