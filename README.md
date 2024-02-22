@@ -35,26 +35,26 @@ At STIWA Advanced Products GmbH, I contributed significantly to precision engine
 ## Knowledgable in:
 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![PowerAutomate](https://img.shields.io/badge/PowerAutomate-blue?style=flat&logoColor=Blue)
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svgg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Oracle/oracle1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg">
 
