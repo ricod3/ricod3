@@ -15,6 +15,8 @@ Hello! I’m a passionate IT enthusiast with experience in various areas. Let's 
     - **SecOps / DFIR**: Understand security operations and digital forensics.
     - **Compliance**: Expertise in adhering to ISO 27001 guidelines.
 
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.karriere.at%2Ff%2Fstiwa-group&psig=AOvVaw0Ar2-KTOONqmsRJDRDbNMi&ust=1708762476974000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiPtrWCwYQDFQAAAAAdAAAAABBR" width="50">
+
 ## STIWA Advanced Products GmbH
 At STIWA Advanced Products GmbH, I contributed significantly to precision engineering:
 - **CAD Designs**: I created and refined CAD designs (both 2D and 3D) using tools like DCAM and SolidWorks.
