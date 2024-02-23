@@ -1,7 +1,7 @@
 # About Me
 Hello! I’m a passionate IT enthusiast with experience in various areas. Let's dive into the specifics of my skills by covering my last two career steps:
 
-## KPMG Advisory GmbH, Linz/Vienna <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/KPMG_logo.svg" width="50">
+## KPMG Advisory GmbH, Linz/Vienna <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/KPMG_logo.svg" width="70">
 - **Cloud Solutions Implementation**: I’ve worked extensively on implementing cloud solutions in both Azure and Google Cloud Platform environments. From architecture design to deployment, I’ve been involved in ensuring seamless cloud adoption.
 - **DevSecOps Project**: As part of a DevSecOps initiative, I integrated various security tools into the CI/CD pipeline on AWS CodePipeline. This involved automating security checks and ensuring secure code delivery.
 - **IT Skillset Development**: My journey has included mastering a wide range of IT topics:
@@ -15,9 +15,7 @@ Hello! I’m a passionate IT enthusiast with experience in various areas. Let's 
     - **SecOps / DFIR**: Understand security operations and digital forensics.
     - **Compliance**: Expertise in adhering to ISO 27001 guidelines.
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_STIWA_Group_RGB_transparent.png" width="50">
-
-## STIWA Advanced Products GmbH
+## STIWA Advanced Products GmbH <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_STIWA_Group_RGB_transparent.png" width="70">
 At STIWA Advanced Products GmbH, I contributed significantly to precision engineering:
 - **CAD Designs**: I created and refined CAD designs (both 2D and 3D) using tools like DCAM and SolidWorks.
 - **CAM Programming**: I handled CAM programming, ensuring efficient machining processes using DCAM and FaptCut i.
