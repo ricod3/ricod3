@@ -4,6 +4,7 @@ Hello! I’m a passionate IT enthusiast with experience in various areas. Let's 
 <p align="right">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/KPMG_logo.svg" width="50">
 </p>
+
 ## KPMG Advisory GmbH, Linz/Vienna 
 - **Cloud Solutions Implementation**: I’ve worked extensively on implementing cloud solutions in both Azure and Google Cloud Platform environments. From architecture design to deployment, I’ve been involved in ensuring seamless cloud adoption.
 - **DevSecOps Project**: As part of a DevSecOps initiative, I integrated various security tools into the CI/CD pipeline on AWS CodePipeline. This involved automating security checks and ensuring secure code delivery.
