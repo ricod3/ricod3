@@ -34,10 +34,10 @@ At STIWA Advanced Products GmbH, I contributed significantly to precision engine
 
 ## Knowledgable in:
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg">
+
+
+
+
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php3.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Oracle/oracle1.svg">
@@ -58,9 +58,8 @@ At STIWA Advanced Products GmbH, I contributed significantly to precision engine
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg">
 
-| Month    | Savings |
-| -------- | ------- |
-| January  | $250    |
-| February | $80     |
+
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">  | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">    |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"> | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg">    |
 | March    | $420    |
 
