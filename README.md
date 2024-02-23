@@ -59,7 +59,5 @@ At STIWA Advanced Products GmbH, I contributed significantly to precision engine
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg">
 
 
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">  | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">    |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"> | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg">    |
-| March    | $420    |
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg"> 
 
