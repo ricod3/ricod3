@@ -1,8 +1,7 @@
 # About Me
 Hello! I’m a passionate IT enthusiast with experience in various areas. Let's dive into the specifics of my skills by covering my last two career steps:
 
-## KPMG Advisory GmbH, Linz/Vienna 
-<p align="right">
+## KPMG Advisory GmbH, Linz/Vienna <p align="right">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/KPMG_logo.svg" width="50">
 </p>
 - **Cloud Solutions Implementation**: I’ve worked extensively on implementing cloud solutions in both Azure and Google Cloud Platform environments. From architecture design to deployment, I’ve been involved in ensuring seamless cloud adoption.
